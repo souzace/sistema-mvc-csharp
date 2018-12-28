@@ -1,0 +1,10 @@
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\bin\Debug\Sistema.DAO.dll
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\bin\Debug\Sistema.DAO.pdb
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\bin\Debug\Sistema.Entidades.dll
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.csprojAssemblyReference.cache
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.csproj.CopyComplete
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.dll
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\obj\Debug\Sistema.DAO.pdb
+C:\Users\Fabio Souza\source\repos\Sistema\Sistema.DAO\bin\Debug\Sistema.DAO.dll.config
